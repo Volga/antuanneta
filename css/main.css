@@ -50,12 +50,17 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
+
 @media only screen and (min-width: 768px) {
   .main-content {
     padding-left: env(safe-area-inset-left);
     padding-right: env(safe-area-inset-right);
     padding-top: 130px;
   }
+}
+
+.content-container {
+  height: 100vh;
 }
 
 .main-explain-area {
