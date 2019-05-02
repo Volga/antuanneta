@@ -804,3 +804,11 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.d-flex {
+  display: flex !important;
+}
+
+.m-auto {
+  margin: auto !important;
+}
