@@ -812,3 +812,7 @@ td.gutter {
 .m-auto {
   margin: auto !important;
 }
+
+.text-center {
+  text-align: center;
+}
