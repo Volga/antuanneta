@@ -1,1 +1,10 @@
 remote_theme: Volga/beautiful-jekyll
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
