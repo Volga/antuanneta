@@ -60,7 +60,11 @@ hr.small {
 }
 
 .content-container {
-  height: 100vh;
+  min-height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .main-explain-area {
@@ -282,6 +286,10 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
   background-attachment: fixed;
