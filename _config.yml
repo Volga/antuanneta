@@ -8,8 +8,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-title: ТОРТЫ ОТ АНЕЧКИ
-description: Вкуснейшие торты, капкейки, кейкпопсы, эклеры, макаронс, пряники на заказ - Москва, СВАО - Медведково, Бабушкинская, Свиблово, Бибирево, Алтуфьево, Отрадное
+title: Antuanneta Cakes
+description: Вкуснейшие торты, капкейки, кейкпопсы, эклеры, макаронс, пряники на заказ - Мытищи и Москва, СВАО - Медведково, Бабушкинская, Свиблово, Бибирево, Алтуфьево, Отрадное
 avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -21,4 +21,4 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 social-network-links:
-  instagram: torti.ot.anechki
+  instagram: antuanneta_cakes
