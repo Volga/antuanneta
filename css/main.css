@@ -816,3 +816,15 @@ td.gutter {
 .text-center {
   text-align: center;
 }
+
+.main-content_container {
+  margin-top: 250px;
+  margin-bottom: 160px;
+}
+
+
+@media (max-width: 450px) {
+  .main-content_container {
+    margin-top: 150px;
+  }
+}
