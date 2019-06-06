@@ -6,6 +6,11 @@ var main = {
   numImgs : null,
 
   init : function() {
+      var feed = new Instafeed({
+          get: 'popular',
+          clientId: '7dfb22c6e2eb48e8a741cd7e9e08a774'
+      });
+      feed.run();
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
