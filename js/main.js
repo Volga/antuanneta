@@ -10,7 +10,8 @@ var main = {
           get: 'user',
           userId: '7174503032',
           accessToken: '7174503032.7dfb22c.674164af4dc6482a9836b4019b1de222',
-          clientId: '7dfb22c6e2eb48e8a741cd7e9e08a774'
+          clientId: '7dfb22c6e2eb48e8a741cd7e9e08a774',
+          template: '<a href="{{link}}" class="img-thumbnail" style="margin: 5px;"><img src="{{image}}" /></a>'
       });
       feed.run();
     // Shorten the navbar after scrolling a little bit down
