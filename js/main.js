@@ -8,7 +8,8 @@ var main = {
   init : function() {
       var feed = new Instafeed({
           get: 'user',
-          userId: '7174503032'
+          userId: '7174503032',
+          clientId: '7dfb22c6e2eb48e8a741cd7e9e08a774'
       });
       feed.run();
     // Shorten the navbar after scrolling a little bit down
