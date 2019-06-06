@@ -9,7 +9,7 @@ var main = {
       var feed = new Instafeed({
           get: 'user',
           userId: '7174503032',
-          accessToken: 'efe35fecb09840ba8eee1d6ae57ba357',
+          accessToken: '7174503032.7dfb22c.674164af4dc6482a9836b4019b1de222',
           clientId: '7dfb22c6e2eb48e8a741cd7e9e08a774'
       });
       feed.run();
